@@ -1,6 +1,6 @@
 # Big Data 101 Presentation
 
-*Original work of Craig Covey**
+**Original work of Craig Covey**
 
 Presentation describing and explaining Big Data, Hadoop, and Machine Learning to an audience unfarmiliar with computers and technology.
 
